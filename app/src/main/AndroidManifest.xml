@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.badoystudio.jelajahlebak">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- Splash screen -->
+        <activity
+            android:name=".splashscreen"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".wisata"
+            android:label="Wisata"
+            android:parentActivityName=".wisata" />
+        <activity
+            android:name=".kuliner"
+            android:label="Kuliner"
+            android:parentActivityName=".kuliner" />
+        <activity
+            android:name=".guide"
+            android:label="Guide"
+            android:parentActivityName=".guide" />
+        <activity
+            android:name=".hotel"
+            android:label="@string/title_activity_hotel"
+            android:parentActivityName=".hotel" />
+        <activity
+            android:name=".katineng"
+            android:label="Hotel Katineung"
+            android:parentActivityName=".katineng" />
+        <activity
+            android:name=".bagedur"
+            android:label="Pantai Bagedur"
+            android:parentActivityName=".bagedur" />
+        <activity
+            android:name=".tanjunglayar"
+            android:label="Tanjung Layar"
+            android:parentActivityName=".tanjunglayar" />
+        <activity
+            android:name=".baduy"
+            android:label="Baduy"
+            android:parentActivityName=".baduy" />
+        <activity
+            android:name=".curugmunding"
+            android:label="Curug Munding"
+            android:parentActivityName=".curugmunding" />
+        <activity
+            android:name=".mapbagedur"
+            android:label="Peta Pantai Bagedur"
+            android:parentActivityName=".mapbagedur" />
+        <activity
+            android:name=".mapbaduy"
+            android:label="Peta Suku Baduy"
+            android:parentActivityName=".mapbaduy" />
+        <activity
+            android:name=".maptanjunglayar"
+            android:label="Peta Tanjung Layar"
+            android:parentActivityName=".maptanjunglayar" />
+        <activity
+            android:name=".mapcurugmunding"
+            android:label="Peta Curug Munding"
+            android:parentActivityName=".mapcurugmunding" />
+        <activity
+            android:name=".jojorong"
+            android:label="Jojorong"
+            android:parentActivityName=".jojorong" />
+        <activity
+            android:name=".leumeung"
+            android:label="Leumeung"
+            android:parentActivityName=".leumeung" />
+        <activity
+            android:name=".pasung"
+            android:label="Pasung"
+            android:parentActivityName=".pasung" />
+        <activity
+            android:name=".emping"
+            android:label="Emping"
+            android:parentActivityName=".emping" />
+        <activity
+            android:name=".razos"
+            android:label="Razos"
+            android:parentActivityName=".razos" />
+        <activity
+            android:name=".zaki"
+            android:label="Zaki"
+            android:parentActivityName=".zaki" />
+        <activity
+            android:name=".rega"
+            android:label="Rega"
+            android:parentActivityName=".rega" />
+        <activity
+            android:name=".mutiara"
+            android:label="Hotel Mutiara Lebak"
+            android:parentActivityName=".mutiara" />
+        <activity
+            android:name=".wijaya"
+            android:label="Hotel Wijaya"
+            android:parentActivityName=".wijaya" />
+        <activity
+            android:name=".karisma"
+            android:label="Hotel Karisma "
+            android:parentActivityName=".karisma" />
+        <activity android:name=".mapkatineng"
+            android:label="Peta Hotel Katineng"
+            android:parentActivityName=".mapkatineng"/>
+        <activity android:name=".mapkarisma"
+            android:label="Peta Hotel Karisma "
+            android:parentActivityName=".mapkarisma"/>
+        <activity android:name=".mapwijaya"
+            android:label="Peta Hotel Wijaya"
+            android:parentActivityName=".mapwijaya"/>
+        <activity android:name=".mapmutiara"
+            android:label="Peta Hotel Mutiara"
+            android:parentActivityName=".mapmutiara">
+
+        </activity>
+    </application>
+
+</manifest>

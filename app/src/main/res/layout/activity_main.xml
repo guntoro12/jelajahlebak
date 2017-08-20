@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="fill_parent"
+    android:background="@drawable/latar2"
+    android:layout_height="fill_parent"
+
+    android:orientation="vertical"
+
+    tools:context="com.badoystudio.jelajahlebak.MainActivity">
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:id="@+id/imageviewatas"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="2dp"
+
+
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/sawarna2"
+        />
+
+
+    <ImageButton
+       android:layout_below="@+id/imageviewatas"
+        android:id="@+id/imagebutton1"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/wisata1"
+
+        android:layout_marginLeft="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:onClick="onwisataClick"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textwisata"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_alignParentLeft="true"
+        android:text="WISATA"
+        android:fontFamily="serif"
+        android:background="@color/colorAccent"
+        android:layout_below="@id/imagebutton1"
+        android:layout_alignRight="@+id/imagebutton1"
+        android:layout_alignEnd="@+id/imagebutton1"
+        android:textAlignment="center"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginRight="20dp"
+        android:id="@+id/texthotel"
+        android:fontFamily="serif"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_height="wrap_content"
+        android:text="HOTEL"
+        android:textColor="@android:color/background_light"
+        android:background="@color/colorAccent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/imagebutton1"
+        android:layout_alignLeft="@+id/imagebutton2"
+        android:layout_alignStart="@+id/imagebutton2"
+        android:textAlignment="center"
+        android:textStyle="normal|bold" />
+
+    <ImageButton
+        android:id="@+id/imagebutton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:src="@drawable/hotel3"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/imagebutton1"
+        android:layout_marginRight="20dp"
+        android:onClick="onhotelClick"
+        />
+
+
+
+
+    <ImageButton
+        android:id="@+id/imagebutton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/kuliner1"
+
+        android:layout_marginLeft="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textwisata"
+        android:layout_alignLeft="@+id/imagebutton1"
+        android:layout_marginTop="10dp"
+
+        android:onClick="onkulinerClick"
+        />
+
+    <ImageButton
+        android:id="@+id/imagebutton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_below="@+id/texthotel"
+        android:src="@drawable/guide1"
+        android:layout_alignRight="@id/imagebutton2"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:onClick="onguideClick"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textkuliner"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_alignParentLeft="true"
+        android:text="KULINER"
+        android:fontFamily="serif"
+        android:background="@color/colorAccent"
+        android:layout_below="@id/imagebutton3"
+        android:layout_alignRight="@+id/imagebutton1"
+        android:layout_alignEnd="@+id/imagebutton1"
+        android:textAlignment="center"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginRight="20dp"
+        android:id="@+id/textguide"
+        android:fontFamily="serif"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_height="wrap_content"
+        android:text="GUIDE"
+        android:textColor="@android:color/background_light"
+        android:background="@color/colorAccent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/imagebutton3"
+        android:layout_alignLeft="@+id/imagebutton2"
+        android:layout_alignStart="@+id/imagebutton2"
+        android:textAlignment="center"
+        android:textStyle="normal|bold" />
+
+
+
+
+
+
+</RelativeLayout>

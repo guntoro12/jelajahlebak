@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_razos"
+    android:layout_width="match_parent"
+    android:background="@drawable/latar2"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.badoystudio.jelajahlebak.razos">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="185dp"
+        android:src="@drawable/razos"
+        android:layout_marginBottom="20dp"
+        />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/garis1"
+        />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+
+
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/call"
+            android:src="@drawable/cl"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="5dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/call"
+            android:id="@+id/inst"
+            android:src="@drawable/ig"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="TELEPON"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@+id/call"
+            android:layout_marginTop="12dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/ig"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/call"
+            android:layout_marginLeft="10dp"
+            android:text="INSTAGRAM"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/inst"
+            android:layout_marginTop="12dp"/>
+
+
+
+
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:src="@drawable/garis1"
+        />
+
+
+
+
+</LinearLayout>

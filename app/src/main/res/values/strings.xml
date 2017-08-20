@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Jelajah Lebak</string>
+    <string name="title_activity_wisata">Wisata</string>
+    <string name="title_activity_kuliner">Kuliner</string>
+    <string name="title_activity_hotel">Hotel</string>
+    <string name="title_activity_guide">Guide</string>
+
+
+    <string name="bagedur">
+
+        Pantai Bagedur merupakan sebuah objek wisata pantai yang terletak di daerah kecamatan Malingping, Kabupaten Lebak, provinsi Banten.
+
+        Pantai Bagedur berjarak sekitar 115 Km dari Kota Rangkasbitung atau 83 Km dari Kabupaten Pandeglang.
+        \n
+        \nSebagai objek wisata, pantai ini tak pernah sepi oleh kunjungan wisatawan. Daya tarik pantai itu bukan saja karena panjangnya mencapai sekitar 10 kilometer tetapi juga lebar pantai dengan kelandaiannya yang memungkinkan areal pantai dijadikan lokasi reli motor.
+        \n
+        \n
+    </string>
+
+    <string name="tanjunglayar">
+
+        Pantai Tanjung Layar adalah objek wisata di kawasan Desa Wisata Sawarna, Bayah, Kabupaten Lebak, Banten. Nama pantai ini berasal dari gambaran dua buah batu karang raksasa yang berbentuk seperti layar kapal yang terkembang.
+        \n
+        \nSejarah tentang Pantai Tanjung Layar diceritakan dalam babad sunda dan legenda (dongeng) pesisir selatan. Menurut dongeng dan cerita para terdahulu, dua buah karang raksasa di kawasan Tanjung Layar adalah jelmaan dari dua buah kekuatan yang akan dijadikan layar kapal Sangkuriang untuk berlayar mengarungi Samudera Selatan ketika akan melangsungkan pernikahan dengan Ibunya, Dayang Sumbi, namun Sang Hyang Widi tidak mengizinkan kehendak Sangkuriang, maka diamuklah semua peralatan kapal termasuk layarnya, konon kapal tersebut ditendang ke sebelah utara menjadi Gunung Tangkuban Perahu, sedangkan layar-layar yang besar dilempar ke bagian selatan pulau Jawa menjadi karang yang kokoh dan tegar di pantai selatan Provinsi Banten, tepatnya desa sawarna, kecamatan bayah saat ini
+        \n
+        \n
+    </string>
+
+    <string name="baduy">
+        Orang Kanekes atau orang Baduy adalah suatu kelompok masyarakat adat Sunda di wilayah Kabupaten Lebak, Banten. Sebutan Baduy merupakan sebutan yang diberikan oleh penduduk luar kepada kelompok masyarakat tersebut, berawal dari sebutan para peneliti Belanda yang agaknya mempersamakan mereka dengan kelompok Arab Badawi yang merupakan masyarakat yang berpindah-pindah (nomaden).
+        \n
+        \nBahasa yang mereka gunakan adalah Bahasa Sunda dialek a–Banten. Untuk berkomunikasi dengan penduduk luar mereka lancar menggunakan Bahasa Indonesia, walaupun mereka tidak mendapatkan pengetahuan tersebut dari sekolah. Orang Kanekes dalam tidak mengenal budaya tulis, sehingga adat istiadat, kepercayaan/agama, dan cerita nenek moyang hanya tersimpan di dalam tuturan lisan saja.
+        \n
+        \n
+    </string>
+
+    <string name="curugmunding">
+        Curug Munding adalah salah satu air terjun yang terletak di Desa Cicaringin, Kecamatan Gunungkencana Lebak, Banten. Air terjun ini memiliki curahan air terjun yang lebar dengan lokasi yang relatif dekat dengan perkampungan penduduk dan persawahan yang asri. Destinasi wisata ini berjarak sekitar 58 kilometer dari pusat Kabupaten Lebak, Rangkasbitung, dan sekitar 133 kilometer dari Jakarta. Saat ini Curug Munding dikelola oleh BUMdes Cicaringin, Gunungkencana Lebak.
+        \n
+        \nTerdapat sejarah unik terkait penamaan Curug Munding, karena Munding dalam Bahasa Sunda berarti kerbau. Hal tersebut diyakini masyarakat karena pada zaman dahulu ada seekor kerbau yang melompat dari atas air terjun. Dari kejadian tersebut kemudian warga menamai air terjun ini dengan nama Curug Munding.
+        \n
+        \n
+    </string>
+
+
+    <string name="jojorong">
+
+Kue jojorong merupakan makanan yang berbahan dasar tepung kanji, tepung beras dan juga gula merah. Rasanya unik dan khas beda dari kue kue pada umumnya. Namun punya identitas kue Indonesia seperti kue Indonesia pada umumnya kue Jojorong yaitu dibungkus dengan daun. bagi yang tertarik untuk membuat kue jojorong berikut ini bahan dan cara membuatnya.
+        \n
+        \n
+        Bahan :
+\n• ½ ons tepung kanji
+\n• 2 ons tepung beras
+\n• ½ ons gula merah, serut
+\n• 50 cc air daun suji dan pandan
+\n• 750 cc santan encer
+\n• garam secukupnya
+\n
+        \nToping/Jajadul :
+\n• 2 sdm tepung kanji
+\n• 200 cc santan kental dari 1 kelapa
+        \n
+        \n
+
+        Cara Membuat :\n
+\n1. Jadikan satu tepung beras, tepung kanji, garam dan air suji sampai benar-benar tercampur merata.
+\n2. Sediakan mangkok plastik kecil atau takir daun pisang.
+\n3. Taruhlah gula merah dan mangkok, lalu tuangi bahan bawah (hijau) sampai tiga perempat, lalu kukuslah sampai matang.
+\n4. Disamping itu buatlah bahan atas atau tutup : Campurlah semua bahan sampai merata.
+\n5. Setelah itu tuangkan ke atas adonan hijau.
+\n6. Sesudah itu kukuslah lagi lebih kurang 5 menit atau sematangnya.
+        \n
+        \n
+
+
+
+
+
+    </string>
+
+    <string name="leumeung">
+Leumeung atau Lemang Malingping adalah kuliner khas Malingping, Lebak-Banten yang terbuat dari beras ketan dicampur dengan bumbu-bumbu yang kemudian diberi santan kelapa kental dan dimasukan kedalam ruas-ruas bambu yang sudah di potong sedemikian rupa. Setelah semua bahan selesai dimasukan ke dalam, kemudian bambu yang sudah terisi dengan semua bahan tersebut dibakar di perapian dengan hati-hati. Dibutuhkan keahlian khusus dan ketelitian  dalam membakarnya agar tidak sampai membuat bambu habis terbakar dan menyebabkan bagian dalam Leumeung gosong menghitam. Dan ketika semua proses pembakaran selesai maka Leumeung hangat khas Malingping siap dijajakan.
+        \n
+        \nUntuk menemukan Leumeung di Malingping tidaklah sulit, makanan yang satu ini bisa dengan mudah anda temukan di Pasar Malingping dengan harga yang sangat terjangkau sehingga tidak perlu khawatir membuat dompet anda menjerit. Selain itu, makanan ini juga biasanya dijadikan pilihan para wisatawan yang mengunjungi tempat-tempat wisata yang ada di sini sebagai buah tangan yang cocok bagi keluarga di Rumah.
+        \n
+        \n
+        Jadi, ketika anda berkunjung ke Lebak Selatan jangan pernah lewatkan kesempatan untuk menikmati kuliner yang satu ini yaa. Karena jalan-jalan ke Lebak Selatan terutama ke Malingping tidak akan sempurna tanpa menikmati gurihnya Leumeung khas kota di Selatan Lebak-Banten ini.
+        \n
+
+
+
+
+    </string>
+
+    <string name="pasung">
+
+
+        Kue Pasung merupakan makanan khas Banten, kue ini memiliki ciri dan keunikan karena disajikan dengan daun pisang yang dibentuk kerucut menyerupai corong. Kue ini biasanya dapat dijumpai pada acara-acara tertentu seperti pada acara pernikahan, khitanan dan perayaan-perayaan keagamaan.
+        \n
+        \nKue Pasung ini berbahan dasar tepung beras, hanya saja dalam membuat kue pasung ini terdiri dari dua adonan. Adonan yang pertama dari campuran gula aren/merah dan tepung beras sedangkan yang kedua dari santan dan tepung sagu sehingga kue pasung menjadi kenyal. Selain itu agar kuenya memiliki tekstur dan wangi biasanya ditambahkan potongan kelapa atau nangka.
+        \n
+
+    </string>
+
+    <string name="emping">
+        Emping adalah sejenis makanan ringan yang terbuat dari biji pohon melinjo yang dihancurkan/digeprek hingga datar dan tipis untuk kemudian dikeringkan di bawah sinar matahari.
+        \n
+        \nMelinjo atau dalam bahasa Sunda disebut Tangkil adalah suatu spesies tanaman berbiji terbuka berbentuk pohon yang berasal dari Asia tropik, melanesia, dan Pasifik Barat. Melinjo dikenal pula dengan nama belinjo, mlinjo, tangkil atau bago, Khalet.
+        \n
+        \n
+        Emping banyak dihasilkan oleh pengusaha kecil, biasanya emping melinjo diproduksi oleh industri daerah misalnya di Banten, Kabupaten Klaten, Kabupaten Batang,Kabupaten Kendal, Jawa Tengah, Yogyakarta, serta Jawa Timur, yaitu di Kabupaten Magetan dan di Kabupaten Bantul. Emping sebagian diekspor ke Timur Tengah dan Amerika Serikat.
+        \n
+
+    </string>
+
+</resources>
